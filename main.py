@@ -1,4 +1,4 @@
 from utils import *
 
-if __name__=="main.py":
+if __name__== '__main__':
     print(sum(3,5))
