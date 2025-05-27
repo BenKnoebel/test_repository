@@ -1,2 +1,4 @@
+from utils import *
 
-print("Hello World!")
+if __name__=="main.py":
+    print(sum(3,5))
